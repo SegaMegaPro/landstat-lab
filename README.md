@@ -4,4 +4,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 jupyter notebook
 
-## Для запуска ноутбука нужно вручную в папку `data/raw` закинуть файлы, которые подготовил Федя
+## Для запуска ноутбука нужно:
+1) Создать папку `data/raw`
+2) Закинуть в нее файлы, которые подготовил Федя
+3) Запустить по порядку ячейки в `landsat_preprocessing.ipynb`
