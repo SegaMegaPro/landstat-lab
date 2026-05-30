@@ -1,0 +1,6 @@
+.cache/
+.matplotlib_cache/
+.ipynb_checkpoints/
+__pycache__/
+data/raw/
+data/processed/*.tif
